@@ -163,6 +163,10 @@ highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
 
+# I added this to move blog away from homepage
+paginate_path: "/blog/page:num/"
+
+
 kramdown:
   input: GFM
 
