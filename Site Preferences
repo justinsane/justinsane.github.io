@@ -1,0 +1,12 @@
+Site Preferences
+
+Branding (colors):
+
+/* RGB */
+$color1: rgba(109, 112, 124, 1); 6d707c
+$color2: rgba(5, 142, 217, 1); 058ed9
+$color3: rgba(125, 124, 122, 1); 7d7c7a
+$color4: rgba(255, 255, 255, 1); ffffff
+$color5: rgba(216, 108, 69, 1); d86c45
+
+
