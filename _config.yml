@@ -4,7 +4,7 @@
 title: Justin Levy
 
 # Short description of your site
-description: Test
+description: Justin Levy's Personal Website
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -20,6 +20,7 @@ description: Test
 
 # List of links in the navigation bar
 navbar-links:
+  Blog: "blog"
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
