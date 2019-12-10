@@ -19,7 +19,9 @@ description: Justin Levy's Personal Website
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
+# the left side is the name that displays to the user and the right side is the name of the .md file  
 navbar-links:
+  Home: "index"
   Blog: "blog"
   About Me: "aboutme"
   Resources:
