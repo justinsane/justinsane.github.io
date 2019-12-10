@@ -21,13 +21,13 @@ description: Justin Levy's Personal Website
 # List of links in the navigation bar
 # the left side is the name that displays to the user and the right side is the name of the .md file  
 navbar-links:
-  # Home: "index"
+  #   Home: "index"
   Blog: "blog"
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
+  # Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -72,11 +72,12 @@ author:
 social-network-links:
   rss: true
   email: "justin@justlevy.com"
-  facebook: justlevy
-  github: justlevy
-  twitter: justlevy
+  linkedin: justlevy
+#  facebook: justlevy
+#  github: justlevy
+#  twitter: justlevy
 #  reddit: yourname
-#  linkedin: daattali
+  
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -202,6 +203,7 @@ exclude:
   - LICENSE
   - README.md
   - Vagrantfile
+  - Site Preferences
 
 # prose.io config
 prose:
