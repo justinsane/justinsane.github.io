@@ -4,6 +4,7 @@ published: true
 title: Pura Vida!
 subtitle: Travel to Costa Rica
 date: '2019-12-19'
+image: /img/CR_Jungle.jpeg
 ---
 Our trip to the Rich Coast (Costa Rica) was part adventure and part relaxation. 
 
