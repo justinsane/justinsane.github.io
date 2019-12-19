@@ -1,7 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 title: Pura Vida in the The Rich Coast
+subtitle: Travel to Costa Rica
+date: '2019-12-19'
 ---
 Our trip to Costa Rica was great. Part adventure, part relaxation. 
 
