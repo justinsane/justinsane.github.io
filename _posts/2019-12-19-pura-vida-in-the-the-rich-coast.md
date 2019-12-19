@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Pura Vida!
-subtitle: Travel to Costa Rica
+subtitle: Costa Rica Trip Recap
 date: '2019-12-19'
 image: /img/CR_Jungle.jpeg
 ---
