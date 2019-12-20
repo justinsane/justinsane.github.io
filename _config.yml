@@ -23,7 +23,9 @@ description: My Personal Website
 navbar-links:
   #   Home: "index"
   Blog: "blog"
-  About Me: "aboutme"
+  About Me: 
+    - "personal"
+    - "professional"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
