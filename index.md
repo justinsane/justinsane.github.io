@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Home
-subtitle: my home page
+title: Justin Levy
+subtitle: Welcome
 ---
 
-## Add something here to the home page
+## On this website you'll find:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- professional information
+- personal interests and hobbies
+- contact information
+- thoughts and blog posts
 
 
 <br />
-#### Here's a link to [Learn Markdown](https://commonmark.org/help/) it'll answer _all_ your questions.
-
-You can also add HTML in here. <a href="http://google.com/" target="_blank" rel="noopener">Hello, world!</a>
+#### Check out my latest blog posts [Read it Here](/blog).
