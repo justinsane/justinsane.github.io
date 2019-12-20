@@ -16,7 +16,7 @@ Speaking of the clouds, this suspension bridge meters above the jungle floor in 
 
 ![Monteverde Suspension]({{site.baseurl}}/img/Monteverde_Suspension.jpeg)
 
-<img src="/img/Monteverde_Suspension.jpeg" width="200">
+<img src="img/Monteverde_Suspension.jpeg" width="200" />
 
 Below I'll jot down my thoughts on traveling in Costa Rica. ⚠️ I'm not an expert so please excuse my ignorance and lack of local knowledge.
 
