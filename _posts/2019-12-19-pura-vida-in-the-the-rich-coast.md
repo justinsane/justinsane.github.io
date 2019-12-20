@@ -6,7 +6,7 @@ subtitle: Costa Rica Trip Recap
 date: '2019-12-19'
 image: /img/CR_Jungle.jpeg
 ---
-Our trip to the Rich Coast (Costa Rica) was part adventure and part relaxation. 
+Our trip to the Rich Coast (Costa Rica) was part adventure, part relaxation. 
 
 The tropical landscape included huge trees (go figure), bodies of water, monkeys, sloths, tons of different types of birds, and more.
 
