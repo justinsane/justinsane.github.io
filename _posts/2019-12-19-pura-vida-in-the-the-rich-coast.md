@@ -61,24 +61,19 @@ Costa Rica is a great travel destination.
 
 There's plenty of activities to partake in: 
 
--fishing
--boating
--diving
--snorkeling
--hiking
--kayaking
--bird watching
--ATV'ing
--horseback riding
--sunbathing
--surfing
--ziplining
--nature walks
--etc.
+- fishing
+- boating
+- diving
+- snorkeling
+- hiking
+- kayaking
+- bird watching
+- ATV'ing
+- horseback riding
+- sunbathing
+- surfing
+- ziplining
+- nature walks
+- etc.
 
 I'm happy to help recommend day trips, areas to stay, tips, etc. Get in touch.
-
-
-
-
-
