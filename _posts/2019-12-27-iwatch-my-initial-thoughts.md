@@ -9,7 +9,7 @@ date: '2019-12-27'
 
 I was gifted an iWatch 5 for Christmas. I've had my eye on the iWatch for awhile but I've grown more interested recently with features like longer battery life, swimming modes, cellular access, music, etc.
 
-![iWatch.jpeg]({{site.baseurl}}/img/iWatch.jpeg)
+<img src="/img/iWatch.jpeg" width="500" />
 
 
 ## Main Use Case - Exercising
