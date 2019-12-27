@@ -9,6 +9,9 @@ date: '2019-12-27'
 
 I was gifted an iWatch 5 for Christmas. I've had my eye on the iWatch for awhile but I've grown more interested recently with features like longer battery life, swimming modes, cellular access, music, etc.
 
+![iWatch.jpeg]({{site.baseurl}}/img/iWatch.jpeg)
+
+
 ## Main Use Case - Exercising
 
 My main use case for the iWatch is excercising. I'm active in endurance sports: long-distance running, triathalons, cycling, etc. The short battery life of previous iWatch versions was an obstacle. Because of that I opted for my Suunto digital watch. I could use GPS and record a 6-hour Half Ironman race.
