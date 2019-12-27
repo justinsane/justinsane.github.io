@@ -1,7 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 title: iWatch - My Initial Thoughts
+subtitle: 48 Hour Review
+date: '2019-12-27'
 ---
 # 48 hour review: iWatch 5
 
