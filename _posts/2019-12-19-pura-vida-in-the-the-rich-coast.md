@@ -14,8 +14,6 @@ A highlight was hiking in the jungle, both at sea level ([Manuel Antonio](https:
 
 Speaking of the clouds, this suspension bridge meters above the jungle floor in Monteverde was great:
 
-![Monteverde Suspension]({{site.baseurl}}/img/Monteverde_Suspension.jpeg)
-
 <img src="/img/Monteverde_Suspension.jpeg" width="500" />
 
 Below I'll jot down my thoughts on traveling in Costa Rica. ⚠️ I'm not an expert so please excuse my ignorance and lack of local knowledge.
