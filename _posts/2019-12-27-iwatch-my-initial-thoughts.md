@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: iWatch - My Initial Thoughts
+title: iWatch - Initial Thoughts
 subtitle: 48 Hour Review
 date: '2019-12-27'
 ---
