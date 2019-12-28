@@ -7,7 +7,7 @@ date: '2019-12-27'
 ---
 # 48 hour review: iWatch 5
 
-I was gifted an iWatch 5 for Christmas. I've had my eye on the iWatch for awhile but I've grown more interested recently with features like longer battery life, swimming modes, cellular access, music, etc.
+I was gifted an iWatch 5 for Christmas 🎁. I've had my eye on the iWatch for awhile but I've grown more interested recently with features like longer battery life, swimming modes, cellular access, music, etc.
 
 <img src="/img/iWatch.jpeg" width="500" />
 
