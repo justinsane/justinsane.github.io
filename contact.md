@@ -9,7 +9,7 @@ subtitle: Let's Connect
 [Email](mailto:justin@justlevy.com)
 
 
-<form action="https://usebasin.com/f/e6ee63bac05ce" method="POST">
+<form action="https://usebasin.com/f/e6ee63bac05c" method="POST">
 <label for="Name">Name</label>
 <input type="text" id="name" name="name" required>
 
