@@ -9,7 +9,7 @@ subtitle: Let's Connect
 [Email](mailto:justin@justlevy.com)
 
 <form
-  action="https://formspree.io/mqkeyzqe"
+  action="https://usebasin.com/f/e6ee63bac05ce"
   method="POST"
 >
   <label>
