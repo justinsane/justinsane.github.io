@@ -8,20 +8,13 @@ subtitle: Let's Connect
 
 [Email](mailto:justin@justlevy.com)
 
-<form
-  action="https://usebasin.com/f/e6ee63bac05ce"
-  method="POST"
->
-  <label>
-    Your email:
-    <input type="text" name="_replyto">
-  </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
 
-  <!-- your other form fields go here -->
+<form action="https://usebasin.com/f/e6ee63bac05ce" method="POST">
+<label for="Name">Name</label>
+<input type="text" id="name" name="name" required>
 
-  <button type="submit">Send</button>
+<label for="email-address">Email Address</label>
+<input type="email" id="email" name="email" required>
+
+<button type="submit">Submit</button>
 </form>
