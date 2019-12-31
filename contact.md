@@ -4,6 +4,7 @@ title: Contact
 ---
 
 ## Let's Connect
+<br>
 
 <form action="https://usebasin.com/f/e6ee63bac05c" method="POST">
 <label for="Name">Name</label>
