@@ -14,13 +14,13 @@ input[type=text], input[type=email] {
   box-sizing: border-box;
 }
 
-input[type=button], input[type=submit], input[type=reset] {
-  background-color: #4CAF50;
+button[type=button], button[type=submit], button[type=reset] {
+  background-color: #F5F5F5;
   border: none;
   color: white;
   padding: 16px 32px;
   text-decoration: none;
-  margin: 4px 2px;
+  margin: 8px 2px;
   cursor: pointer;
 }
 
