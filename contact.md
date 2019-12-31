@@ -16,5 +16,8 @@ subtitle: Let's Connect
 <label for="email-address">Email Address</label>
 <input type="email" id="email" name="email" required>
 
+<label for="Text">Message</label>
+<input type="text" id="message" name="message">
+
 <button type="submit">Submit</button>
 </form>
