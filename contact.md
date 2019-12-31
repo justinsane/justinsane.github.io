@@ -1,13 +1,9 @@
 ---
 layout: page
 title: Contact
-subtitle: Let's Connect
 ---
 
-# Let's get in touch
-
-[Email](mailto:justin@justlevy.com)
-
+## Let's Connect
 
 <form action="https://usebasin.com/f/e6ee63bac05c" method="POST">
 <label for="Name">Name</label>
