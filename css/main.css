@@ -307,6 +307,7 @@ footer {
 
 footer p.text-muted {
   color: {{ site.footer-text-col }};
+  opacity: 0.2;
 }
 
 footer a {
