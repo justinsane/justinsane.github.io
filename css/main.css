@@ -20,7 +20,7 @@ input[name=message] {
   padding: 12px 20px;
   box-sizing: border-box;
   border: 2px solid #ccc;
-  background-color: #f8f8f8;
+  clear: both;
 }
 
 button[type=button], button[type=submit], button[type=reset] {
