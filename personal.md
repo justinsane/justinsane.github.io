@@ -26,33 +26,33 @@ subtitle: A bit on my interests and hobbies
   <div class="carousel-inner" role="listbox">
 
     <div class="item active">
-			<!-- Images: edit the value of src="..." with a url of your own picture, or a relative path to the img in in the images folder. -->
+			<!-- Images: edit the value of src="..." with a url of your own picture, or a relative path to the img in the images folder. -->
 			<!-- Absolute pa†h: https://some-image-path.com -->
 			<!-- relative path: {{ 'img/name-of-the-img-in-this-folder.jpg' | relative_url }} -->
 
-      <img src="{{ 'img/404-southpark.jpg' | relative_url }}" />
+      <img src="{{ 'img/Riverbend_Jupiter_Biking.jpeg' | relative_url }}" />
 			<!-- Captions: put html between the open/close tag of carousel-caption to add a caption -->
       <div class="carousel-caption">
-				<p>A slide</p>
+				<p>Biking in Jupiter, Florida</p>
       </div>
 
     </div>
 
     <div class="item">
 			<!-- Images: edit the value of src="..." with a url of your own picture -->
-      <img src="https://picsum.photos/id/100/750/417" />
+      <img src="{{ 'Taipei_Shopping.jpeg' | relative_url }}" />
 			<!-- Captions: put html between the open/close tag of carousel-caption to add a caption -->
 			<div class="carousel-caption">
-				<p>And another.</p>
+				<p>Shopping in Taipei, Taiwan</p>
       </div>
 		</div>
 		
 		<div class="item">
 			<!-- Images: edit the value of src="..." with a url of your own picture -->
-      <img src="https://picsum.photos/id/1020/750/417" />
+      <img src="{{ 'Formula1_Austin.jpeg' | relative_url }}" />
 			<!-- Captions: put html between the open/close tag of carousel-caption to add a caption -->
 			<div class="carousel-caption">
-				<p>Last one.</p>
+				<p>2019 US Formula 1 Race in Austin</p>
       </div>
     </div>
   </div>
