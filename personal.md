@@ -40,7 +40,7 @@ subtitle: A bit on my interests and hobbies
 
     <div class="item">
 			<!-- Images: edit the value of src="..." with a url of your own picture -->
-      <img src="{{ 'Taipei_Shopping.jpeg' | relative_url }}" />
+      <img src="{{ 'img/Taipei_Shopping.jpeg' | relative_url }}" />
 			<!-- Captions: put html between the open/close tag of carousel-caption to add a caption -->
 			<div class="carousel-caption">
 				<p>Shopping in Taipei, Taiwan</p>
@@ -49,7 +49,7 @@ subtitle: A bit on my interests and hobbies
 		
 		<div class="item">
 			<!-- Images: edit the value of src="..." with a url of your own picture -->
-      <img src="{{ 'Formula1_Austin.jpeg' | relative_url }}" />
+      <img src="{{ 'img/Formula1_Austin.jpeg' | relative_url }}" />
 			<!-- Captions: put html between the open/close tag of carousel-caption to add a caption -->
 			<div class="carousel-caption">
 				<p>2019 US Formula 1 Race in Austin</p>
