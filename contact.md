@@ -4,6 +4,8 @@ title: Contact
 ---
 
 ## Let's Connect
+justin@justlevy.com
+415.460.7811
 <br>
 
 <form action="https://usebasin.com/f/e6ee63bac05c" method="POST">
