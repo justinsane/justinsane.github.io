@@ -4,12 +4,11 @@ title: Justin Levy
 subtitle: Welcome
 ---
 
-## On this website you'll find:
+# My name's Justin and this is my personal website. 
 
-- professional information
-- personal interests and hobbies
-- contact information
-- thoughts and blog posts
+I built this site using Jekyll which is hosted on Github Pages (for free, thanks Github!). Side note - if you're looking for a simple, personal website let's connect. I'm happy to help you get started.
+
+
 
 
 <br />
