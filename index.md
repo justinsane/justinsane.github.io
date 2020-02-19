@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Justin Levy
-subtitle: Never leave well enough alone
 ---
 
 ## Justin Levy is a Vice President and Regional Consultant in San Francisco for [Federated Hermes](https://www.federatedhermes.com/), a global leader in active and responsible investing.
@@ -13,14 +12,9 @@ Currently, he's studying for the CFP(R) in addition to expanding his video editi
 Justin is quite different in that he considers endurance sports fun: triathlons, cycling, running, and hiking. Travel experiences and exploring the less-traveled path are important to both Justin and his fiance. They're also constantly improving their kitchen chops and sharing new recipes with friends and family.
 
 
+## About my Website
 
-
-
-
-
-# About my Website
-
-I built this site using Jekyll which is hosted on Github Pages (for free, thanks Github!). Side note - if you're looking for a simple, personal website let's connect. I'm happy to help you get started.
+I built this site using Jekyll which is hosted on Github Pages (gratuitously, thanks Github!). Side note - if you're looking for a simple, personal website I'm happy to help. [Let's connect](/contact).
 
 
 
