@@ -23,7 +23,7 @@ description: My Personal Website
 navbar-links:
   #   Home: "index"
   Blog: "blog"
-  About Me: 
+  # About Me: 
     - Personal: "personal"
     - Professional: "professional"
   Contact: "contact"
