@@ -4,6 +4,7 @@ published: true
 title: Remote Coworking
 subtitle: distributed productivity
 date: '2020-02-19'
+image: /img/weWorkNow.jpeg
 ---
 
 Sometimes I get 'work cabin fever'. It's the tense feeling I sometimes experience when I'm working solo. It's not an issue when I'm working around other people at a coffee shop, store, airport, office, cafe, library, etc.
