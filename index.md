@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Justin Levy
+use-site-title: true
 ---
 
 ## Justin Levy is a Vice President and Regional Consultant in San Francisco for [Federated Hermes](https://www.federatedhermes.com/), a global leader in active and responsible investing.
