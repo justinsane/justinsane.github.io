@@ -8,42 +8,46 @@ subtitle: On running and endurance sports.
 ---
 ## Run It
 
-I've been running and practicing endurance sports since my college days in Pittsburgh. 
+I've been running since college.
 
-I remember logging miles and miles in Schenley Park before school and on the paved pedestrian-only lanes in Southside after work once I graduated. Whether it was running for fun, to reduce stress, to get physically fit, to visualize goals or to just think, I was out there.
+I remember logging miles in Schenley Park Pittsburgh before school and the paved pedestrian-only lanes in Southside after work once I graduated. I ran for fun, to reduce stress, to get fit, to visualize goals, and to think.
 
 ![Schenley Park Pittsburgh]({{site.baseurl}}/img/Schenley.jpg)
 
-Training for my first organized race with my friends, the Pittsburgh Half Marathon, taught me vital lessons. 
+I leaped into the world of endurance sports when I registered for the Pittsburgh Half-Marathon with my friends. It taught me a lot.
 
-For example, I learned to plan for long-term goals. It's important to break up a big task, like running 13.1 miles, or later on, 50 kilometers, a Half-Ironman distance, etc. into bite-sized pieces.
+Like the fact that long-term goals should be bite-sized. That way you can trick yourself into believing it's no sweat to complete 13.1 miles, a 50k race, a Half-Ironman, and whatever's next on the bucket list.
 
-I realized that discipline was key. For me, running the minute I got home from work was important. If I didn't put on my running shoes right away, I would procrastinate and then it'd be dark, and cold, and I'd be tired... You get the point.   
+Discipline is key. For me, running the minute I got home from work was essential. If I didn't put on my running shoes right away, it woudl soon be dark, cold, and I'd be tired... You get the point.   
 
-I also learned to listen to my body. Rest, stretching and proper nutrition. That's huge.
+Listening to your body is another important lesson. Rest, stretching and proper nutrition. It's huge!
 
 ## A Running Renaissance
 
-On a run the other day it struck me how different running is today from when I started a little more than a decade ago.
+Running today is very different from when I started a tad more than a decade ago.
 
-For example, the biggest difference that I've noticed is wireless headphones that sound amazing. Thank you Apple Airpods Pro!
+Take wireless earbuds. No cords, sound isolation, and the tunes pumping. Thank you Apple Airpods Pro!
 
-Also, I don't need to carry a huge iPhone around. I especially don't need to strap that thing to my arm. Remember those armband phone holders? Not today!
+Remember those armband phone holders? Not today! The Apple Watch makes it possible to not even bring your phone along on the run.
 
-I recently purchased the new Nike Epic React Flyknit shoes. While these shoes don't have the carbon fiber soleplate that the Olympians are rocking they're still cool. In fact, according to Nike, they're "designed to help reduce injury and keep you on the run." So Nike says... Regardless, shoe tech has come a long way.
+I'm happy with my latest running purchase, the Nike Epic React Flyknit running shoes. These shoes don't have the carbon fiber soleplate that Olympians are rocking but they're still cool. And according to Nike, they're "designed to help reduce injury and keep you on the run." So Nike says... Regardless, shoe tech has come a long way.
 
 <img src="/img/NikeReact.jpeg" width="500" />
 
-The nutrition game is improving as well. There's a nutritional supplement for everyone now. I prefer ClifBlocks and trail mix for cycling and e-Gels from [Crank Sports](https://www.cranksports.com/) for long runs.
+The nutrition game is improving. There's a nutritional supplement for everyone now. I like ClifBlocks and trail mix for cycling and e-Gels by [Crank Sports](https://www.cranksports.com/) for long runs.
 
-Strava has inspired countless athletes to become more engaged, social and addicted to their sports. If it's not on Strava it didn't happen...
+Strava inspired countless athletes to become more engaged, social and addicted to their sports. If it's not on Strava it didn't happen...
 
-Above all, you have to look good doing it. That's where [Rapha](https://www.rapha.cc/us/en_US) and Lululemon come in. Athleisure is one of the hottest categories out there. In fact, on a trendy retail street in San Francisco, I counted 5 athleisure stores. Can you say 'bubble'?
+If anything, you have to look good doing it. That's where [Rapha](https://www.rapha.cc/us/en_US) and Lululemon come in. Athleisure is one of the hottest categories out there. In one popular retail street in San Francisco I counted 5 athleisure stores. Can you say 'bubble'?
 
 ## Forward-Looking Thoughts
 
-In the future, I see continued improvements for the weekend warrior or casual athlete such as: 
+Looking forward I see more improvements for the weekend warrior and casual athelete: 
 
-Augmented reality glasses so you can see your virtual pacer to keep you honest (and working hard)
-Sports nutrition made specifically for your body and palate
-Custom sportswear (think [ProperCloth](https://propercloth.com/) for cycling bibs)
+- Augmented reality glasses so you can see your virtual pacer to keep you honest (and working hard)
+- Sports nutrition made specifically for your body and palate
+- Custom sportswear (think [ProperCloth](https://propercloth.com/) for cycling bibs)
+
+What do you think? 
+
+Run on!
