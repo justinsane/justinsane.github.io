@@ -8,25 +8,25 @@ subtitle: On running and endurance sports.
 ---
 ## Run It
 
-I've been running and practicing endurance sports since my college days in Pittsburgh. 
+I've been running since college in Pittsburgh. 
 
-I remember logging miles and miles in Schenley Park before school and on the paved pedestrian-only lanes in Southside after work once I graduated. Whether it was running for fun, to reduce stress, to get physically fit, to visualize goals or to just think, I was out there.
+I remember logging miles in Schenley Park before school and the paved pedestrian-only lanes in Southside after work once I graduated. I ran for fun, to reduce stress, to get fit, to visualize goals, and to think.
 
 ![Schenley Park Pittsburgh]({{site.baseurl}}/img/Schenley.jpg)
 
-Training for my first organized race with my friends, the Pittsburgh Half Marathon, taught me vital lessons. 
+I leaped into the world of endurance sports when I registered for the Pittsburgh Half-Marathon with my friends. It taught me a lot.
 
-For example, I learned to plan for long-term goals. It's important to break up a big task, like running 13.1 miles, or later on, 50 kilometers, a Half-Ironman distance, etc. into bite-sized pieces.
+Like the fact that long-term goals should be bite-sized. That way you can trick yourself into believing it's no sweat to complete 13.1 miles, a 50k race, a Half-Ironman, and whatever's next on the bucket list.
 
-I realized that discipline was key. For me, running the minute I got home from work was important. If I didn't put on my running shoes right away, I would procrastinate and then it'd be dark, and cold, and I'd be tired... You get the point.   
+Discipline is key. For me, running the minute I got home from work was essential. If I didn't put on my running shoes right away, it woudl soon be dark, cold, and I'd be tired... You get the point.   
 
-I also learned to listen to my body. Rest, stretching and proper nutrition. That's huge.
+Listening to your body is another important lesson. Rest, stretching and proper nutrition. It's huge!
 
 ## A Running Renaissance
 
-On a run the other day it struck me how different running is today from when I started a little more than a decade ago.
+Running today is very different from when I started a tad more than a decade ago.
 
-For example, the biggest difference that I've noticed is wireless headphones that sound amazing. Thank you Apple Airpods Pro!
+The biggest difference that I've noticed is wireless headphones that sound amazing. Thank you Apple Airpods Pro!
 
 Also, I don't need to carry a huge iPhone around. I especially don't need to strap that thing to my arm. Remember those armband phone holders? Not today!
 
