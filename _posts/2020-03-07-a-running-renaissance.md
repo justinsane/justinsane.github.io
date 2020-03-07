@@ -29,7 +29,7 @@ Also, I don't need to carry a huge iPhone around. I especially don't need to str
 
 I recently purchased the new Nike Epic React Flyknit shoes. While these shoes don't have the carbon fiber soleplate that the Olympians are rocking they're still cool. In fact, according to Nike, they're "designed to help reduce injury and keep you on the run." So Nike says... Regardless, shoe tech has come a long way.
 
-![NikeReact.jpeg]({{site.baseurl}}/img/NikeReact.jpeg)
+<img src="/img/NikeReact.jpeg" width="500" />
 
 The nutrition game is improving as well. There's a nutritional supplement for everyone now. I prefer ClifBlocks and trail mix for cycling and e-Gels from [Crank Sports](https://www.cranksports.com/) for long runs.
 
