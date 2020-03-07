@@ -8,9 +8,9 @@ subtitle: On running and endurance sports.
 ---
 ## Run It
 
-I've been running since college in Pittsburgh. 
+I've been running since college.
 
-I remember logging miles in Schenley Park before school and the paved pedestrian-only lanes in Southside after work once I graduated. I ran for fun, to reduce stress, to get fit, to visualize goals, and to think.
+I remember logging miles in Schenley Park Pittsburgh before school and the paved pedestrian-only lanes in Southside after work once I graduated. I ran for fun, to reduce stress, to get fit, to visualize goals, and to think.
 
 ![Schenley Park Pittsburgh]({{site.baseurl}}/img/Schenley.jpg)
 
