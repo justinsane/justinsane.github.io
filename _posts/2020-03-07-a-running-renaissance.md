@@ -1,7 +1,10 @@
 ---
 layout: post
-published: false
+published: true
 title: A Running Renaissance
+image: /img/NikeReact.jpeg
+date: '2020-03-07'
+subtitle: On running and endurance sports.
 ---
 ## Run It
 
