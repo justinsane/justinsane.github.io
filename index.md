@@ -4,13 +4,13 @@ title: Justin Levy
 use-site-title: true
 ---
 
-## Justin Levy is a Vice President and Regional Consultant in San Francisco for [Federated Hermes](https://www.federatedhermes.com/), a global leader in active and responsible investing.
+## Justin Levy is a San Francisco-based Senior Regional Consultant for [Federated Hermes](https://www.federatedhermes.com/), a global leader in active and responsible investing.
 
-Justin attained his Series 7 and 66 nine years ago and is a Certified Investment Management Analyst&#174; specializing in portfolio construction and manager selection. His clients include top independent and RIA's in Northern California.
+Justin is a Certified Investment Management Analyst&#174; specializing in portfolio construction. His clients, independent wealth advisors and RIA's, span Northern California and Southern Oregon. He holds the Series 7 and 66 securities licenses. 
 
-Currently, he's studying for the CFP&#174; designation in addition to expanding his video editing and web tech skillset for fun.
+Currently, he's studying for the CFP&#174; designation in addition to dabbling in creative pursuits like graphic design and video editing.
 
-Justin considers endurance sports fun: triathlons, cycling, running, and hiking. Travel experiences and exploring the less-traveled path are important to both Justin and his fiance. They're also constantly improving their kitchen chops and sharing new recipes with friends and family.
+Justin is constantly training for his next endurance challenge: triathlon, cycling, road and trail running.
 
 
 ### About my Website
